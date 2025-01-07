@@ -1,0 +1,12 @@
+{
+  "name": "my-contacts-api",
+  "version": "1.0.0",
+  "description": "API to store contacts",
+  "main": "src/index.js",
+  "repository": "https://github.com/joaohenriquefernandes/my-contacts-api.git",
+  "author": "joaohenriquefernandes <joaohenriquefernandes.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
