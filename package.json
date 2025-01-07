@@ -10,9 +10,12 @@
     "dev": "nodemon ./src/index.js"
   },
   "dependencies": {
-    "express": "4.17.1"
+    "express": "^.17.1"
   },
   "devDependencies": {
-    "nodemon": "2.0.4"
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "nodemon": "^2.0.4"
   }
 }
